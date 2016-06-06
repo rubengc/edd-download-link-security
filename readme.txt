@@ -1,6 +1,6 @@
 === EDD Download Link Security ===
 Contributors: rubengc
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RSGNF8PKTHXLJ
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=64N6CERD8LPZN
 Tags: easy digital downloads, digital, download, downloads, edd, rubengc, download, link, security, restriction, protection, secure, e-commerce
 Requires at least: 4.0
 Tested up to: 4.5
